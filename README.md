@@ -1,0 +1,2 @@
+# Deep-Learning-based-Attribute-Identification-for-Deceit-Prediction-Using-EEG-Signal-Analysis
+This study predicts deceit using EEG signals with **SampEn**, **RQA**, and **LSTM**. **ICA** reduces channels from **16 to 12**, optimizing computation. The **LSTM model** achieves **97.66% accuracy** with early stopping at **81 epochs**. The dataset labels samples as **"Innocent" (1) or "Guilty" (2)**, ensuring reliable analysis.
